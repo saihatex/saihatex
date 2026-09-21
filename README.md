@@ -1,6 +1,6 @@
 ﻿<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=F0F6FC&center=true&vCenter=true&width=750&lines=Quantitative+Researcher+%26+Builder;Macro+%C2%B7+Market+Structure+%C2%B7+Data;Python+%C2%B7+Cross-Asset+%C2%B7+DeFi;Systems+Engineer+%C2%B7+Algo+Execution"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=708090&center=true&vCenter=true&width=750&lines=Quantitative+Researcher+%26+Builder;Macro+%C2%B7+Market+Structure+%C2%B7+Data;Python+%C2%B7+Cross-Asset+%C2%B7+DeFi;Systems+Engineer+%C2%B7+Algo+Execution"
     alt="Typing SVG"
   />
 </p>
@@ -54,10 +54,3 @@
   Languages & Libs  ▸  Python (NumPy, Pandas, SciPy) · TypeScript · Streamlit · Solidity
   Infra & Workflows ▸  Git · Docker · Linux · Multi-Agent Orchestration · Terminal Tools
 ```
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saihatex&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saihatex&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Top Languages" />
-</p>
