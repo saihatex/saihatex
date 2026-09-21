@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Quantitative Researcher & Systems Builder with a Physics background.</strong><br/>
+  <strong>Quantitative Researcher & Systems Builder.</strong><br/>
   Bridging institutional macro research, market microstructure (SMC), and algorithmic execution tooling.
 </p>
 
