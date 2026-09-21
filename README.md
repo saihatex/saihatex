@@ -1,15 +1,26 @@
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=65D4C7&center=true&vCenter=true&width=700&lines=Quantitative+Researcher+%C2%B7+Python+%C2%B7+AI;Macro+Research+%C2%B7+Data+%C2%B7+Automation;Physics+%C2%B7+Finance+%C2%B7+Machine+Learning"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <strong>Quantitative Researcher & Builder with a Physics background.</strong> I bridge the gap between heavy financial data analysis, applied AI/ML workflows, and production-ready Python tools.
+  <strong>Quantitative Researcher & Builder with a Physics background.</strong>
+  I bridge the gap between heavy financial data analysis,
+  applied AI/ML workflows, and production-ready Python tools.
 </p>
 
 <p align="center">
-  <a href="https://t.me"><img src="https://shields.io" alt="Telegram"></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="GitHub"></a>
-  <a href="mailto:malynychmisha@gmail.com"><img src="https://shields.io" alt="Email"></a>
+  <a href="https://t.me/ТВОЙ_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://github.com/saihatex">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:malynychmisha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
