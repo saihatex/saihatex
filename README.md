@@ -1,4 +1,6 @@
-<h1 align="center">Python · Quant · Data Science</h1>
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>Quantitative Researcher & Builder with a Physics background.</strong> I bridge the gap between heavy financial data analysis, applied AI/ML workflows, and production-ready Python tools.
