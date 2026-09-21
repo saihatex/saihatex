@@ -1,32 +1,63 @@
-<p align="center">
+﻿<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&duration=2800&pause=900&color=333333&center=true&vCenter=true&width=750&lines=Quantitative+Researcher;Trading+%C2%B7+Macro+%C2%B7+Data;Python+%C2%B7+JavaScript+%C2%B7+Systems"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=F0F6FC&center=true&vCenter=true&width=750&lines=Quantitative+Researcher+%26+Builder;Macro+%C2%B7+Market+Structure+%C2%B7+Data;Python+%C2%B7+Cross-Asset+%C2%B7+DeFi;Systems+Engineer+%C2%B7+Algo+Execution"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <strong>Quantitative Researcher & Builder with a Physics background.</strong>
-  I bridge the gap between heavy financial data analysis,
-  applied AI/ML workflows, and production-ready Python tools.
+  <strong>Quantitative Researcher & Systems Builder with a Physics background.</strong><br/>
+  Bridging institutional macro research, market microstructure (SMC), and algorithmic execution tooling.
 </p>
 
 <p align="center">
-  <a href="https://t.me/ТВОЙ_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  <a href="https://x.com/earlywokenn" target="_blank">
+    <img src="https://img.shields.io/badge/X-@earlywokenn-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://github.com/saihatex">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://discord.com/users/imageekstar" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-imageekstar-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:malynychmisha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://www.linkedin.com/in/saihate" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-saihate-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saihatee@icloud.com">
+    <img src="https://img.shields.io/badge/Email-saihatee%40icloud.com-000000?style=flat-square&logo=apple&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### currently
+### ⚡ Current Focus
 
-* 📊 Enhancing **Track Record Forensics** — an automated framework for hedge funds to detect hidden risks and "cooked" returns.
-* 🖥️ Orchestrating parallel **AI Agent workflows** (Cursor, Windsurf) for rapid prototyping and technical automation.
-* 🔍 Conducting systematic macro research using Federal Reserve & US Treasury APIs.
+- 🔬 **Macro & FX Surveillance** — Real-time cross-asset divergence models, Federal Reserve Net Liquidity pipelines, and CME FedWatch probabilities.
+- 📊 **Track Record Forensics** — Institutional trade reconstruction, return decomposition, and tail-risk detection frameworks.
+- 🤖 **AI-Assisted Quant Workflows** — Parallel multi-agent code orchestration for rapid algorithm prototyping and data mining.
+
+---
+
+### 🛠️ Featured Systems & Tools
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**mcrwtch**](https://github.com/saihatex/mcrwtch) | Minimalist macro terminal (DXY, US10Y, Gold, Crude, CFTC COT, FedWatch) | `Python` `Streamlit` `FRED API` |
+| [**fed-watch-engine**](https://github.com/saihatex/fed-watch-engine) | CME 30-Day Fed Funds futures rate probability bootstrap engine | `Python` `CME ZQ` `Futures` |
+| [**trading-fx-position-risk-calc**](https://github.com/saihatex/trading-fx-position-risk-calc) | Position size & risk management engine with live rate conversion ([Live App](https://trading-fx-position-risk-calc.streamlit.app)) | `Python` `Streamlit` `CLI` |
+| [**eurfxwatch**](https://github.com/saihatex/eurfxwatch) | EUR/USD quantitative surveillance, SMC price action & liquidity sweeps | `Python` `FX` `Quant` |
+
+---
+
+### 🧠 Domain Knowledge & Tech Stack
+
+```text
+  Quantitative      ▸  Lead-Lag Modeling · SMC Price Action · Drawdown & Risk Frameworks
+  Macro Economics   ▸  Fed H.4.1 Net Liquidity · US Treasury TGA · CME FedWatch · CFTC COT
+  Languages & Libs  ▸  Python (NumPy, Pandas, SciPy) · TypeScript · Streamlit · Solidity
+  Infra & Workflows ▸  Git · Docker · Linux · Multi-Agent Orchestration · Terminal Tools
+```
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saihatex&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saihatex&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Top Languages" />
+</p>
