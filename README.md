@@ -1,22 +1,16 @@
 ﻿<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=708090&center=true&vCenter=true&width=750&lines=Quantitative+Researcher+%26+Builder;Macro+%C2%B7+Market+Structure+%C2%B7+Data;Python+%C2%B7+Cross-Asset+%C2%B7+DeFi;Systems+Engineer+%C2%B7+Algo+Execution"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=708090&center=true&vCenter=true&width=750&lines=Trader+%C2%B7+Researcher+%C2%B7+Builder;Markets+%C2%B7+Data+%C2%B7+Software;Python+%C2%B7+TypeScript+%C2%B7+Analytics;Trading+Tools+%C2%B7+Financial+Research"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <strong>Quantitative Researcher & Systems Builder.</strong><br/>
-  Bridging institutional macro research, market microstructure (SMC), and algorithmic execution tooling.
+  <strong>Trader building quantitative research and financial software.</strong><br/>
+  Focused on market research, risk analytics, reproducible experiments, and practical tools.
 </p>
 
 <p align="center">
-  <a href="https://x.com/earlywokenn" target="_blank">
-    <img src="https://img.shields.io/badge/X-@earlywokenn-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://discord.com/users/imageekstar" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-imageekstar-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
   <a href="https://www.linkedin.com/in/saihate" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-saihate-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -29,9 +23,9 @@
 
 ### ⚡ Current Focus
 
-- 🔬 **Macro & FX Surveillance** — Real-time cross-asset divergence models, Federal Reserve Net Liquidity pipelines, and CME FedWatch probabilities.
-- 📊 **Track Record Forensics** — Institutional trade reconstruction, return decomposition, and tail-risk detection frameworks.
-- 🤖 **AI-Assisted Quant Workflows** — Parallel multi-agent code orchestration for rapid algorithm prototyping and data mining.
+- 📊 **Track Record Forensics** — Portfolio reconstruction, return attribution, and hidden-risk analysis from transaction-level data.
+- 🔬 **FX & Macro Research** — Testing market hypotheses with historical data, out-of-sample validation, and explicit limitations.
+- 🛠️ **Financial Tools** — Risk calculators, market dashboards, and data-driven applications for practical trading workflows.
 
 ---
 
@@ -39,18 +33,18 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**mcrwtch**](https://github.com/saihatex/mcrwtch) | Minimalist macro terminal (DXY, US10Y, Gold, Crude, CFTC COT, FedWatch) | `Python` `Streamlit` `FRED API` |
-| [**fed-watch-engine**](https://github.com/saihatex/fed-watch-engine) | CME 30-Day Fed Funds futures rate probability bootstrap engine | `Python` `CME ZQ` `Futures` |
-| [**trading-fx-position-risk-calc**](https://github.com/saihatex/trading-fx-position-risk-calc) | Position size & risk management engine with live rate conversion ([Live App](https://trading-fx-position-risk-calc.streamlit.app)) | `Python` `Streamlit` `CLI` |
-| [**eurfxwatch**](https://github.com/saihatex/eurfxwatch) | EUR/USD quantitative surveillance, SMC price action & liquidity sweeps | `Python` `FX` `Quant` |
+| [**mcrwtch**](https://github.com/saihatex/mcrwtch) | Macro and intermarket dashboard for market data, positioning, and rate expectations | `Python` `Streamlit` `FRED API` |
+| [**fed-watch-engine**](https://github.com/saihatex/fed-watch-engine) | Estimates FOMC rate probabilities from CME 30-Day Fed Funds futures | `Python` `CME ZQ` `Futures` |
+| [**trading-fx-position-risk-calc**](https://github.com/saihatex/trading-fx-position-risk-calc) | Position sizing and risk calculator with live rate conversion ([Live App](https://trading-fx-position-risk-calc.streamlit.app)) | `Python` `Streamlit` `CLI` |
+| [**eurfxwatch**](https://github.com/saihatex/eurfxwatch) | Experimental EUR/USD research, validation, and market-data pipeline | `Python` `FX` `Research` |
 
 ---
 
 ### 🧠 Domain Knowledge & Tech Stack
 
 ```text
-  Quantitative      ▸  Lead-Lag Modeling · SMC Price Action · Drawdown & Risk Frameworks
-  Macro Economics   ▸  Fed H.4.1 Net Liquidity · US Treasury TGA · CME FedWatch · CFTC COT
-  Languages & Libs  ▸  Python (NumPy, Pandas, SciPy) · TypeScript · Streamlit · Solidity
-  Infra & Workflows ▸  Git · Docker · Linux · Multi-Agent Orchestration · Terminal Tools
+  Research          ▸  Hypothesis Testing · Backtesting · Out-of-Sample Validation · Risk Analysis
+  Markets           ▸  FX · Macro · Portfolio Analytics · Market Data
+  Languages & Libs  ▸  Python (NumPy, Pandas, SciPy) · TypeScript · Streamlit
+  Engineering       ▸  Git · CI · Docker · Data Pipelines · Web Applications
 ```
